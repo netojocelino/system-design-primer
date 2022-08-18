@@ -223,12 +223,12 @@ Levante os requisitos e escopo do problema. Faça perguntas para clarear as rest
 * Quantas requisições por segundo é esperada
 * Qual a taxa de leitura e escrita é esperada?
 
-### Step 2: Create a high level design
+### Passo 2: Criar um projeto de alto nível
 
-Outline a high level design with all important components.
+Descreva um projeto de alto nível com os principais componentes.
 
-* Sketch the main components and connections
-* Justify your ideas
+* Esboce os principais componentes e conexões
+* Justifique as ideias
 
 ### Step 3: Design core components
 
