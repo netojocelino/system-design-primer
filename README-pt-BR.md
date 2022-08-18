@@ -210,18 +210,18 @@ O projeto de sistemas é uma **conversa aberta**, onde você irá liderar a conv
 
 Você pode seguir os passos do guia para a conversar, para solidificar este processo use a seção [System design interview questions with solutions](#system-design-interview-questions-with-solutions) usando os passos a seguir.
 
-### Step 1: Outline use cases, constraints, and assumptions
+### Passo 1: Descrição de casos de uso, restrições e suposições
 
-Gather requirements and scope the problem.  Ask questions to clarify use cases and constraints.  Discuss assumptions.
+Levante os requisitos e escopo do problema. Faça perguntas para clarear as restrições e casos de uso, discuta as suposições.
 
-* Who is going to use it?
-* How are they going to use it?
-* How many users are there?
-* What does the system do?
-* What are the inputs and outputs of the system?
-* How much data do we expect to handle?
-* How many requests per second do we expect?
-* What is the expected read to write ratio?
+* Quem irá usar?
+* Como irão utilizar o sistema?
+* Quantos usuários utilizarão?
+* O que o sistema faz?
+* Quais são as entradas e saídas do sistema
+* Qual a quantidade de dados é esperado processar? 
+* Quantas requisições por segundo é esperada
+* Qual a taxa de leitura e escrita é esperada?
 
 ### Step 2: Create a high level design
 
