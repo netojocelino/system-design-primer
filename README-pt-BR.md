@@ -36,7 +36,7 @@ Em conjunto com entrevistas que envolvem codificação, projeto de sistemas é u
 Tópicos adicionais de preparação para entrevistas:
 
 * [Guia de estudo](#study-guide)
-* [Como abordar uma questão de entrevista de projeto de sistemas](#how-to-approach-a-system-design-interview-question)
+* [Como abordar uma questão de entrevista de projeto de sistemas](#como-abordar-perguntas-de-projeto-de-sistemas-em-entrevistas)
 * [Questões de entrevista de projeto de sistemas, **com soluções**](#system-design-interview-questions-with-solutions)
 * [Questões de entrevistas de projeto orientado a objetos, **com soluções**](#object-oriented-design-interview-questions-with-solutions)
 * [Questões adicionais de entrevista de projeto de sistemas](#additional-system-design-interview-questions)
@@ -197,18 +197,18 @@ Start broad and go deeper in a few areas.  It helps to know a little about vario
 | Read through the [System design topics](#index-of-system-design-topics) to get a broad understanding of how systems work | :+1: | :+1: | :+1: |
 | Read through a few articles in the [Company engineering blogs](#company-engineering-blogs) for the companies you are interviewing with | :+1: | :+1: | :+1: |
 | Read through a few [Real world architectures](#real-world-architectures) | :+1: | :+1: | :+1: |
-| Review [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question) | :+1: | :+1: | :+1: |
+| Revise [Como abordar perguntas de Projeto de Sistemas em entrevistas](#como-abordar-perguntas-de-projeto-de-sistemas-em-entrevistas) | :+1: | :+1: | :+1: |
 | Work through [System design interview questions with solutions](#system-design-interview-questions-with-solutions) | Some | Many | Most |
 | Work through [Object-oriented design interview questions with solutions](#object-oriented-design-interview-questions-with-solutions) | Some | Many | Most |
 | Review [Additional system design interview questions](#additional-system-design-interview-questions) | Some | Many | Most |
 
-## How to approach a system design interview question
+## Como abordar perguntas de Projeto de Sistemas em entrevistas
 
-> How to tackle a system design interview question.
+> Como lidar com questões sobre Projeto de Sistemas.
 
-The system design interview is an **open-ended conversation**.  You are expected to lead it.
+O projeto de sistemas é uma **conversa aberta**, onde você irá liderar a conversa.
 
-You can use the following steps to guide the discussion.  To help solidify this process, work through the [System design interview questions with solutions](#system-design-interview-questions-with-solutions) section using the following steps.
+Você pode seguir os passos do guia para a conversar, para solidificar este processo use a seção [System design interview questions with solutions](#system-design-interview-questions-with-solutions) usando os passos a seguir.
 
 ### Step 1: Outline use cases, constraints, and assumptions
 
