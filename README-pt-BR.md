@@ -230,18 +230,18 @@ Descreva um projeto de alto nível com os principais componentes.
 * Esboce os principais componentes e conexões
 * Justifique as ideias
 
-### Step 3: Design core components
+### Passo 3: Projete os componentes principais
 
-Dive into details for each core component.  For example, if you were asked to [design a url shortening service](solutions/system_design/pastebin/README.md), discuss:
+Mergulhe nos detalhes de cada componente principal. Por exemplo, se foi solicitado [projetar um serviço de encurtar links (***não traduzido***)](solutions/system_design/pastebin/README.md "Não foi traduzido ainda"), discorra:
 
-* Generating and storing a hash of the full url
-    * [MD5](solutions/system_design/pastebin/README.md) and [Base62](solutions/system_design/pastebin/README.md)
-    * Hash collisions
-    * SQL or NoSQL
-    * Database schema
-* Translating a hashed url to the full url
-    * Database lookup
-* API and object-oriented design
+* Gerar e salvar a *hash* do link completo
+    * [MD5](solutions/system_design/pastebin/README.md "Não foi traduzido ainda") e [Base62](solutions/system_design/pastebin/README.md "Não foi traduzido ainda")
+    * Colisão de Hash
+    * SQL ou NoSQL
+    * Schema do banco de dados
+* Converter uma url *hasheada* para a url completa
+    * Pesquisar no banco de dados
+* API e Projeto Orientado a Objetos
 
 ### Step 4: Scale the design
 
