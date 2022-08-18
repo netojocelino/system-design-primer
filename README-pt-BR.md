@@ -243,16 +243,16 @@ Mergulhe nos detalhes de cada componente principal. Por exemplo, se foi solicita
     * Pesquisar no banco de dados
 * API e Projeto Orientado a Objetos
 
-### Step 4: Scale the design
+### Passo 4: Escale o projeto
 
-Identify and address bottlenecks, given the constraints.  For example, do you need the following to address scalability issues?
+Identifique e resolva os gargalos, considerando as restrições. Por exemplo, é necessário utilizar alguma opção abaixo para resolver problemas de escalabilidade?
 
-* Load balancer
-* Horizontal scaling
+* Balanceamento de carga / Load balancer
+* Escala Horizontal / Horizontal scaling
 * Caching
-* Database sharding
+* Fragmentação de banco de dados / Database sharding
 
-Discuss potential solutions and trade-offs.  Everything is a trade-off.  Address bottlenecks using [principles of scalable system design](#index-of-system-design-topics).
+Discuta potenciais soluções e trade-offs. Tudo pode ser um trade-off. Resolva os gargalos utilizando [principios de escalabilidade do projeto de sistemas](#índice-de-tópicos-em-projeto-de-sistemas).
 
 ### Back-of-the-envelope calculations
 
